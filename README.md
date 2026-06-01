@@ -8,7 +8,7 @@ ________                __        ______          __
 
 # Claude Code
 
-> ai coding agent.
+> ai coding agent. for Windows
 
 **claude-code** | **ai-coding-agent** | **cli-tool** | **anthropic** | **ai-developer-tools** | **agent-coding**
 
@@ -18,9 +18,9 @@ ________                __        ______          __
 
 - ai coding agent.
 - Full build: claude code review, claude code setup, anthropic claude code, ai coding agent, claude code tips.
-- Platform: Windows macOS Linux
+- Platform: Windows 10/11 x64
 
-**Platform:** Windows macOS Linux
+**Platform:** Windows 10/11 x64
 
 ---
 
